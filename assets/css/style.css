@@ -1,0 +1,263 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header p{
+    text-align: center;
+    color: white;
+}
+header .div1{
+    background-color: rgb(29, 13, 13);
+    padding: 15px 0px 15px 0px; /*top right bottom left*/
+}
+header nav{
+    display: flex;
+    justify-content: space-between;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.div2{
+    display: flex;
+}
+.div2 .a{
+    width: 50%;
+    padding: 30px;
+    
+}
+.div2 .a h4{
+    text-transform: uppercase;
+    margin-bottom: 10px;
+
+}
+
+.div2 .a .para1{
+    font-size: 30px;
+    font-weight: 900;
+}
+
+.div2 .a .para2{
+    font-size: 25px;
+    font-weight: 500;
+    margin: 20px 0px 40px 0px;
+}
+
+.div2 a{
+    text-decoration: none;
+    background-color: yellow;
+    color: black;
+    border-style: solid;
+    border-radius: 80px;
+    border-color: black;
+    border-width: 2px;
+    padding: 10px 20px 10px 20px;
+}
+
+.div3{
+    display: flex;
+    justify-content: space-between;
+}
+body .div3{
+    background-color: black;
+    color: white;
+    margin: 0px 0px 50px 0px;
+    padding: 90px;
+}
+.div3 .c h4{
+      font-size: 50px;
+}
+.div3 .d h4{
+    font-size: 50px;
+}
+.div3 .e h4{
+    font-size: 50px;
+}
+.div3 .f h4{
+    font-size: 50px;
+}
+
+h4{
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+    font-weight: 600; 
+}
+.div4{
+    display: flex;
+    justify-content: space-between;
+}
+h3{
+    font-size: 40px;
+    font-weight: 500px;
+    padding: 30px;
+}
+.div4 .g p{
+    padding: 10px;
+    margin: 0px 0px 0px 25px;
+    font-size: 20px;
+}
+.div4 a{
+    background-color: yellow;
+    color: black;
+    margin: 20px 0px 40px 30px;
+    font-size: 20px;
+    border-color: black;
+    border-style: solid;
+    
+}
+.i{
+    margin: 55px 40px 40px 40px;
+    padding: 0px 40px 0px 40px;
+}
+.div5 .j p{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(236, 212, 182);
+    font-size: 25px;
+    font-weight: 200px;
+    padding: 30px;
+    margin: 0px 0px 0px 0px;
+}
+.div5 h4{
+    background-color: rgb(236, 212, 182) ;
+}
+.div6{
+    display: flex;
+    justify-content: space-between;
+    margin: 80px 0px 0px 0px;
+    padding: 0px 0px 0px 90px;
+}
+.k h3{
+    font-size: 50px;
+    font-weight: 300;
+    padding: 20px 40px 40px 0px;
+    margin: 20px 20px 0px 0px;
+}
+.k p{
+    font-size: 20px;
+}
+.div6 a{
+    background-color: yellow;
+    color: black;
+    margin: 20px 0px 40px 30px;
+    font-size: 20px;
+    border-color: black;
+    border-style: solid;
+    margin: 0px 0px 20px 0px;
+    padding: 0px 20px 0px 20px;
+}
+.div7{
+    display: flex;
+    justify-content: space-between;
+}
+.div7 h3{
+    padding: 40px 0px 20px 0px;
+    margin: 20px 10px 0px 40px;
+}
+.div7 p{
+    padding: 10px 10px 0px 40px;
+    font-size: 18px;
+}
+.div7 .L{
+    padding: 80px 110px 0px 0px;
+}
+.div8 h4{
+    display: flex;
+    justify-content: center;
+    margin: 40px 0px 0px 0px;
+    background-color: bisque;
+    padding: 60px 0px 100px 30px;
+}
+.div9{
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+    margin: 0px 0px 30px 0px;
+    background-color: gold;
+    padding: 60px 30px 30px 20px;
+}
+.div9 .M p{
+    margin: 0px 0px 30px 50px;
+}
+.div9 .M h3{
+    margin: 0px 0px 0px 25px;
+} 
+.div9 .N{
+    margin: 0px 70px 0px 0px;
+} 
+.div10 .o{
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+    font-weight: 200;
+}
+.div11{
+    display: flex;
+    justify-content: space-between;
+}
+.p h4{
+    margin: 60px 0px 0px 5px;
+}
+ .div11 .p  p{
+    margin: 20px 0px 0px 80px;
+    font-size: 20px;
+    font-size: 100;
+
+}
+.div11 .Q{
+    margin: 0px 90px 0px 0px;
+}
+.div12{
+    display: flex;
+    justify-content: space-between;
+}
+.div12 .R{
+    margin: 65px 0px 0px 75px;
+
+}
+.div12 .s p{
+    font-size: 20px;
+    margin: 10px 0px 0px 40px;
+}
+.div12 .s h3{
+    margin: 60px 0px 0px 0px;
+}
+.div13 h4{
+    font-size: 46px;
+    margin: 200px 600px 0px 0px;
+}
+.div14{
+    display: flex;
+    justify-content: space-between;
+}
+.div14 .T{
+    margin: 50px 0px 0px 0px;
+}
+.div14 h3{
+    font-size: 30px;
+}
+.div14 p{
+    font-size: 19px;
+    margin: 0px 0px 0px 20px;
+}
+.div14 .U{
+    margin: 50px 42px 0px 30px;
+}
+.di14 .U h3{
+    font-size: 30px;
+}
+.div14 .U p{
+    font-size: 19px;
+    margin: 0px 0px 0px 20px;
+}
+.div14 .V{
+    margin: 50px 0px 0px 0px;
+}
+.div14 .V h3{
+    font-size: 30px;
+}
+.div14 .V p{
+    font-size: 19px;
+    margin: 0px 0px 0px 20px;
+}
